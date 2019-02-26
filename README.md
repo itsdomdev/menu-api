@@ -3,6 +3,7 @@ HOST: default
 
 # menuapi
 Restaurant Menus is an API providing access to a Database of over 350,000 Restaurant Menus in the US
+
 Website: [http://menuapi.xyz/]
 
 Docs: [http://menuapi.xyz/docs]
